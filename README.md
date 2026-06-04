@@ -1,12 +1,13 @@
 <div align="center">
   <img src="assets/logo/logo.png" alt="企业审计智能协同助手3.0" width="200" height="200">
   <h1>企业审计智能协同助手3.0</h1>
-  <p>一站式企业财务审计全流程智能平台</p>
+  <p>基于DeepSeek-V3.2的全链路审计自动化与能力培养平台</p>
   
-  <img src="https://img.shields.io/github/stars/your-username/enterprise-audit-assistant-3.0?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/forks/your-username/enterprise-audit-assistant-3.0?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/license/your-username/enterprise-audit-assistant-3.0?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/ZZY513618/audit-ai-assistant?style=flat-square" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/forks/ZZY513618/audit-ai-assistant?style=flat-square" alt="GitHub Forks">
+  <img src="https://img.shields.io/github/license/ZZY513618/audit-ai-assistant?style=flat-square" alt="License">
   <img src="https://img.shields.io/badge/version-3.0.0-blue?style=flat-square" alt="Version">
+  <img src="https://img.shields.io/badge/DeepSeek-V3.2-green?style=flat-square" alt="Powered by DeepSeek">
 </div>
 
 ## 📖 项目简介
