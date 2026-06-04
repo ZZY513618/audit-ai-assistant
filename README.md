@@ -22,8 +22,7 @@
 - **许可证**：MIT（完全开源，商业友好）
 
 👉 **DeepSeek官方网站**：https://www.deepseek.com/
-👉 **Coze智能体在线体验**：[[https://www.coze.cn/s/你的智能体ID](https://www.coze.cn/store/agent/7646487909968887842?bot_id=true)
-](https://www.coze.cn/store/agent/7646487909968887842?bot_id=true)
+👉 **Coze智能体在线体验**：https://www.coze.cn/store/agent/7646487909968887842?bot_id=true
 ## ✨ 核心功能
 
 ### 📊 四单全链路联审
