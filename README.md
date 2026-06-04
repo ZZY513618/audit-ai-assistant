@@ -1,31 +1,50 @@
-# 企业审计智能协同助手2.0
+<div align="center">
+  <img src="assets/logo/logo.png" alt="企业审计智能协同助手3.0" width="200" height="200">
+  <h1>企业审计智能协同助手3.0</h1>
+  <p>一站式企业财务审计全流程智能平台</p>
+  
+  <img src="https://img.shields.io/github/stars/your-username/enterprise-audit-assistant-3.0?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/your-username/enterprise-audit-assistant-3.0?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/license/your-username/enterprise-audit-assistant-3.0?style=flat-square" alt="License">
+  <img src="https://img.shields.io/badge/version-3.0.0-blue?style=flat-square" alt="Version">
+</div>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![DeepSeek](https://img.shields.io/badge/Model-DeepSeek%20V3.2/R1-blue.svg)](https://www.deepseek.com/)
-[![Coze]()](https://www.coze.cn/)
-[![Version](https://img.shields.io/badge/Version-2.0-orange.svg)]()
+## 📖 项目简介
 
-## 🎯 项目简介
-国内首个基于DeepSeek开源大模型的全链路审计自动化解决方案。支持合同智能审阅、四单全链路联审、智能测试数据生成和标准化审计成果输出，严格遵循《中国注册会计师审计准则》。
+企业审计智能协同助手3.0是基于Coze平台开发的一站式企业财务审计全流程智能平台。它支持单组/批量四单全链路联审、审计风险可视化分析、审计报告及答辩PPT一键生成。同时内置专业审计能力培养体系，提供知识问答、分级案例实训、错题本和术语词典功能，并支持制造业、零售业、服务业等多行业审计模板，是财务审计人员的智能工作伙伴与学习助手。
 
 ## ✨ 核心功能
-- 📄 合同全维度风险校验（12类高频风险点）
-- 🧾 四单全链路联审（合同+凭证+发票+回单）
-- 🎲 智能测试数据生成（参数化控制，PDF原生输出）
-- 📊 标准化审计报告与Excel工作底稿自动生成
 
-## 🚀 一键部署（10秒上手）
-👉 **点击直接复制智能体到你的Coze空间**：[企业审计智能协同助手2.0](https://www.coze.cn/s/你的智能体分享链接)
+### 📊 四单全链路联审
+- **单组四单审计**：上传合同、发票、银行回单、记账凭证，自动进行四单联审和风险校验
+- **批量四单审计**：上传按文件夹分组的ZIP压缩包，一次性审计多组交易
+- **多行业模板支持**：制造业、零售业、服务业、通用模板
 
-## 📦 核心文件
-- `text-03-contract-validation.zip`：合同全维度风险校验工作流
-- `text-02-plus-four-docs-audit.zip`：四单全链路联审工作流
-- `producer-plus-test-data-gen.zip`：智能测试数据生成工作流
-- `prompt.md`：智能体核心提示词
-- `demo.mp4`：产品演示视频
+### 🧪 测试文件生成
+- 生成包含指定错误数的多行业测试用四单文件
+- 支持自定义交易笔数和错误类型
+- 用于审计人员培训和系统测试
 
-## 🎬 演示
-[观看演示视频](demo.mp4)
+### 🎓 审计能力培养
+- **审计知识问答**：专业审计问题解答，基于权威知识库
+- **三级难度审计实训营**：初级/中级/高级分级案例实训
+- **智能错题本**：自动记录错题，针对性复习
+- **审计术语词典**：100+常用审计术语详解
 
-## 📄 许可证
-本项目基于MIT许可证开源。
+### 🚀 适应性延伸
+- **审计风险热力图**：基于审计结果生成可视化风险分布图
+- **一键生成答辩PPT**：自动填充审计数据，生成完整的答辩PPT报告
+- **标准化审计报告**：自动生成符合规范的审计报告和异常清单
+
+## 🚀 在线演示
+
+👉 **立即体验**：[企业审计智能协同助手3.0 - Coze在线演示](https://www.coze.cn/s/your-agent-id)
+
+📚 **文档网站**：[https://your-username.github.io/enterprise-audit-assistant-3.0/](https://your-username.github.io/enterprise-audit-assistant-3.0/)
+
+## ⚡ 快速开始
+
+### 1. 克隆仓库
+```bash
+git clone https://github.com/your-username/enterprise-audit-assistant-3.0.git
+cd enterprise-audit-assistant-3.0
