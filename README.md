@@ -22,7 +22,7 @@
 - **许可证**：MIT（完全开源，商业友好）
 
 👉 **DeepSeek官方网站**：https://www.deepseek.com/
-👉 **Coze智能体在线体验**：https://www.coze.cn/s/你的智能体ID
+👉 **Coze智能体在线体验**：[https://www.coze.cn/s/你的智能体ID](https://www.coze.cn/store/agent/7646487909968887842?bot_id=true)
 
 ## ✨ 核心功能
 
@@ -49,9 +49,6 @@
 
 ## 🚀 在线演示
 
-👉 **立即体验**：[企业审计智能协同助手3.0 - Coze在线演示](https://www.coze.cn/s/your-agent-id)
-
-📚 **文档网站**：[https://your-username.github.io/enterprise-audit-assistant-3.0/](https://your-username.github.io/enterprise-audit-assistant-3.0/)
 
 ## ⚡ 快速开始
 
